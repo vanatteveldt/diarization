@@ -1,0 +1,3 @@
+pyannote.audio
+openai-whisper
+python-dotenv
